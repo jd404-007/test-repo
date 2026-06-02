@@ -62,4 +62,4 @@ class dataManager:
         
     def PrintData(self):
         print( self.data )
-    #this is the bad code for testing
+    # WARNING: This code is intentionally flawed for security testing and must not reach production.
